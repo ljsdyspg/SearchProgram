@@ -44,6 +44,7 @@ public class WebSpiderImpl implements WebSpider{
                 Pattern linkPattern = Pattern.compile("(?<=title=\").*(?=\">)");
                 Matcher matcherLink = linkPattern.matcher(links);
                 MatchResult Program = null;
+
                 while (matcherLink.find()) {
                     Program = matcherLink.toMatchResult();
                     System.out.println(Program.group());
