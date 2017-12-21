@@ -1,0 +1,2608 @@
+No.1
+UUID: 26031963-fd6e-4af4-89e6-66b72f9cefaf
+Country: Britain
+University: Queen Mary University of London
+School: School of Business and Management 
+ProgramName: BSc Accounting and Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/119123.html
+Email: j.boote@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8570 
+=====================================
+No.2
+UUID: 62cad94a-ee77-45a7-b288-c76357476745
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Aerospace Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79931.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.3
+UUID: 96ded24e-3269-45fd-8fec-6c0c45a1d8a3
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Aerospace Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79932.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.4
+UUID: 5d6c2391-4924-4573-bf6e-431f27e6be7b
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Aerospace Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79948.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.5
+UUID: 49cff418-ae6e-438b-991e-98e7fc33cf4d
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Aerospace Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79947.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.6
+UUID: 5f3d556f-089d-483f-8003-4d5fab704d96
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Aerospace Engineering with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198803.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.7
+UUID: 2a3ec3d9-b3d0-4fcf-bbfb-1c8c4b2724d7
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Aerospace Engineering with Management with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198846.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.8
+UUID: 3804595a-c8d3-44ff-aa67-b9ee24e14c08
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Astrophysics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79993.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.9
+UUID: 2b214cf9-f677-4392-8607-5146fcf29e51
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Astrophysics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79992.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.10
+UUID: fd537518-8061-4a1d-8ac3-3e0b7331d09e
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: MSci Biochemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79984.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.11
+UUID: 354a9a94-5042-4686-a2fd-35913862f19b
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Biochemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79986.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.12
+UUID: 2c891da5-b323-4d94-8019-7f0da1e02d4d
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Biochemistry with a Year in Industry/Research
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/115826.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.13
+UUID: 87f6d369-4de1-44a4-9e51-c1593021f37d
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Biology
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79995.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.14
+UUID: 1b7eac16-40d4-431f-bd82-5014f9371f78
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MSci Biomaterials for Biomedical Sciences
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/169338.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.15
+UUID: 6374052d-0f5c-42fb-b60d-d41a1460ca91
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BSc Biomaterials for Biomedical Sciences
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/169337.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.16
+UUID: 38e94aec-ee7a-461b-83e9-e26cec750969
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BSc Biomaterials for Biomedical Sciences with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/167617.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.17
+UUID: 5135630e-2472-4366-b9d7-bbc75f1cc181
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MSci Biomaterials for Biomedical Sciences with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/167619.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.18
+UUID: d299e290-4f0d-4325-8163-fcc61864f364
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Biomedical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/177564.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.19
+UUID: e060748f-d1a6-4f35-92cb-8d3326d38ce0
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Biomedical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/177562.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.20
+UUID: f62639ce-6298-4fb4-8f26-0052af387c9b
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BSC (Intercal) Biomedical Engineering and Clinical Materials (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139909.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.21
+UUID: a6502979-49fb-44ea-822b-51abf09735f3
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Biomedical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/177563.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.22
+UUID: 594f4caa-b128-4086-9df0-422fa39bb3e6
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Biomedical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/177561.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.23
+UUID: 10a41555-ff26-45b7-a49c-214bae20a4c5
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Biomedical Engineering with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198849.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.24
+UUID: af5b2bd0-d061-4f10-a8ed-111799397dbb
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Biomedical Engineering with Management with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198845.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.25
+UUID: a3356d7a-ad76-40f8-8443-d0f365b058eb
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Biomedical Sciences
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80015.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.26
+UUID: 0cec8c1f-b420-498b-aec7-33f3cb9e918e
+Country: Britain
+University: Queen Mary University of London
+School: School of Business and Management 
+ProgramName: BSc Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80025.html
+Email: j.boote@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8570 
+=====================================
+No.27
+UUID: 0450de22-b90a-4bf1-8260-4f4a233ae015
+Country: Britain
+University: Queen Mary University of London
+School: School of Business and Management 
+ProgramName: BSc Business with Law
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199743.html
+Email: j.boote@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8570 
+=====================================
+No.28
+UUID: f6152f21-b28f-4396-b276-77b3894c1118
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Chemical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170860.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.29
+UUID: 730c7764-d975-42af-9bd7-b108f7eed52f
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Chemical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170859.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.30
+UUID: 25505e12-963d-43b4-89b5-89c2a0625ad4
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Chemical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170857.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.31
+UUID: 4ada88ee-c762-4c3d-95b0-04718e6ceb14
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Chemical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170858.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.32
+UUID: 77767167-54e2-476f-84c4-0347e6138bd0
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Chemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79926.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.33
+UUID: 9c8f2dee-4e86-4de8-b7c9-5c2c1c456721
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: MSci Chemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79924.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.34
+UUID: 6f7eae6a-fcf9-4e51-a75a-25c793528523
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Chemistry with a Year in Industry/Research
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/115827.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.35
+UUID: cc36b2cd-355a-488c-acea-ac3c38581069
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80119.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.36
+UUID: 6b70c64a-9354-4c9d-b33b-6546b4455169
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Comparative Literature and Film Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80086.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.37
+UUID: 24515169-4457-4263-b6a4-c8949e867da5
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Comparative Literature and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80057.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.38
+UUID: 76caee80-8408-461c-944d-b10dad453d73
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80043.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.39
+UUID: c87f3c46-a68c-4daf-8fc9-df83e5e19de3
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MSci Computer Science
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80041.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.40
+UUID: ecbf0005-90e2-4da2-89b0-20eb76933fe4
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science and Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79888.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.41
+UUID: 00ca920b-5d06-4247-a73c-0e2ad3b03781
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science and Mathematics with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79935.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.42
+UUID: 2a67de5c-f54c-42c6-ad20-58c7debacd12
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79923.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.43
+UUID: de92ce46-06e8-4d25-bbaa-d106084125c9
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science with Management (ITMB)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/200660.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.44
+UUID: ac767c42-694c-4bf8-b8d7-7b7001360e28
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Computer Science with Management (ITMB) with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/200659.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.45
+UUID: 5b1f4d0b-e8ba-4e18-b3ed-064cdf30a6c6
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MEng Computer Systems Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/121328.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.46
+UUID: 2c268006-11bb-4e37-a150-3bcc69176d30
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Computer Systems Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/121327.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.47
+UUID: 1d08aa15-f77b-4167-888a-9a970dfc3b35
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Computer Systems Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/131763.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.48
+UUID: 3f4612e9-b379-44f0-9d9c-1d1107169868
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Creative Computing
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/185032.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.49
+UUID: 1c1dd538-1e62-44c5-ba9b-c852e9df5c36
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Creative Computing with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/185033.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.50
+UUID: d89631cf-2436-4c61-8540-c21a6348d2be
+Country: Britain
+University: Queen Mary University of London
+ProgramName: DipHE Dental Hygiene and Dental Therapy
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79921.html
+=====================================
+No.51
+UUID: 7ac86eb3-0f8d-4090-9a68-2d2bac64f051
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Dental Materials
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80050.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.52
+UUID: 2088f2b2-3453-4382-a7ad-463d02f18cd6
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Dental Materials
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80051.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.53
+UUID: 42e92cce-5e43-49e7-97bf-4b94a29184e1
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Dental Materials with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80093.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.54
+UUID: 35f2a660-cc15-4c33-85a1-7201e313285a
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Dental Materials with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80094.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.55
+UUID: fde20182-c638-49de-bdb1-6fcda7a79778
+Country: Britain
+University: Queen Mary University of London
+School: Institute of Dentistry 
+ProgramName: BDS Dentistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80113.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.56
+UUID: 525c49bc-659b-4434-88e2-0cd8b1128d11
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Design, Innovation and Creative Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/116809.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.57
+UUID: 67edb3e7-9f97-43a5-b81c-d416d7422f3e
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Design, Innovation and Creative Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/116808.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.58
+UUID: f60633c2-5d2a-4c60-a3ef-cb8ef36c94a6
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Digital and Technology Solutions (Business Analyst)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199727.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.59
+UUID: bbf96cb2-2229-4481-8234-075148ed3e3d
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Digital and Technology Solutions (Data Analyst)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199730.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.60
+UUID: efc7d459-0047-465a-9f45-5b0f97350dc4
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Digital and Technology Solutions (IT Consultant)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199729.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.61
+UUID: dbe2345a-0f4a-447d-b49f-aa758ed59d7f
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Digital and Technology Solutions (Software Engineer)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199728.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.62
+UUID: e4608eba-219b-4a91-a423-8f3e932b9905
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80004.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.63
+UUID: 04dbfe10-0ed9-4c93-a0c1-8a0ae91e85ce
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80107.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.64
+UUID: 3b5c1b68-da8b-4781-bbaf-d4632ddb6201
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics and Finance
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80063.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.65
+UUID: cd454091-ffe8-40cb-afa8-4664d4e53798
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics and Finance with a Year In Industry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170771.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.66
+UUID: 0e99736a-9f4f-4fd1-9769-751a4b5a7594
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics and International Finance
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/170544.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.67
+UUID: b5333fae-2cb6-43ac-934d-365bd40e84dc
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79953.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.68
+UUID: a3492f24-d9a7-411e-9b44-492dad97454a
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics, Finance and Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80058.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.69
+UUID: 89822b0c-7189-492a-925c-46dc3d4b3c17
+Country: Britain
+University: Queen Mary University of London
+School: School of Economics and Finance 
+ProgramName: BSc (Econ) Economics, Statistics and Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80060.html
+Email: sef-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8848 
+=====================================
+No.70
+UUID: 88874d57-a0fd-4ee2-bddf-341c39deccbb
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electrical and Electronic Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79942.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.71
+UUID: 6bbea754-0ce8-4b4f-a146-1b858a9bf685
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MEng Electrical and Electronic Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198295.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.72
+UUID: 0826f6b6-c11d-4ac3-ad10-bb5e68abd35e
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electrical and Electronic Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79894.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.73
+UUID: 52b763c5-f8a5-43ee-b3cf-33845c238011
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electronic Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79906.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.74
+UUID: 7d60a2d9-7a95-42ee-a35c-254af250a4b7
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electronic Engineering and Telecommunications
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80106.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.75
+UUID: 3df0092a-a001-4a6c-b508-5e1e6135005d
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MEng Electronic Engineering and Telecommunications
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80105.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.76
+UUID: 102ea841-9506-4674-a430-6fc13cde1d73
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electronic Engineering and Telecommunications with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79881.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.77
+UUID: 4591c80b-ff68-43cd-a0b5-a7c9c25fa672
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Electronic Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79979.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.78
+UUID: ac94b6a2-58bb-4429-9cd6-437c521c6457
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79879.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.79
+UUID: 0a3d55d7-7950-4bd6-a9b5-9fd2c157238d
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80067.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.80
+UUID: 7b49ab41-b09d-448c-982c-335f3684fb3e
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB English and European Law
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79918.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.81
+UUID: 7f717d3a-1bf6-4a4c-89a3-77b16b84aa3f
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English and Film Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80068.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.82
+UUID: 8a3572d2-d213-4c65-bedf-949f7780a61f
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English and French
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79997.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.83
+UUID: 98c0c497-8660-4ba0-a60f-da1f9963bdac
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English and German
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80049.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.84
+UUID: 1e1247c7-abfb-49bd-92aa-ccf96253ae2a
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English and Hispanic Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80055.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.85
+UUID: 0392f0c6-f63d-4ced-a58e-c8f9cee33fb7
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English and History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80028.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.86
+UUID: 39351de5-95b3-46ee-a307-2a86d92edada
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English and Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179108.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.87
+UUID: 8b2706a8-3926-44cb-b4cb-3881527f964e
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English Language
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199167.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.88
+UUID: 1237ae28-19dc-4b40-9b7a-da0aa2119433
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA English Language and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80078.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.89
+UUID: 8d496ff4-66f5-41c1-b4be-d994588521fa
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English Literature and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79887.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.90
+UUID: c0181089-3f9f-481d-85bf-71d7e7fd21ca
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA English with Creative Writing
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/178780.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.91
+UUID: 16192c68-0f32-445a-8059-ab68c789c7ea
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BSc Environmental Science
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79945.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.92
+UUID: 21111496-6323-4e34-b4dd-44720b8c7740
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BSc Environmental Science with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79964.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.93
+UUID: 54b57a08-218d-4947-9147-74664e35a0c9
+Country: Britain
+University: Queen Mary University of London
+School: Blizard Institute 
+ProgramName: BSC (Intercal) Experimental Pathology (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139903.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.94
+UUID: 2af907b5-0306-4cdd-81b9-2ee383ee45af
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Film Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79981.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.95
+UUID: ec4ea66b-7685-42e9-a441-cebd3c890c00
+Country: Britain
+University: Queen Mary University of London
+School: School of English and Drama 
+ProgramName: BA Film Studies and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79967.html
+Email: sed-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8571 
+=====================================
+No.96
+UUID: 4cc733a3-fcce-4a90-84dc-26659d0a9be1
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Film Studies and French
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80064.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.97
+UUID: 5f68b9b3-38f0-42d8-ac97-e3e1c267fb28
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Film Studies and German
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79916.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.98
+UUID: bd1e6354-bef8-462c-8edc-f46f9245d442
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Film Studies and Hispanic Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79919.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.99
+UUID: dee8ce4b-5c86-429c-8173-2303a592b9f0
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Film Studies and Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179116.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.100
+UUID: 6066eb4b-9ecf-4bfc-abc0-70625aed20df
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: MSci Financial Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/134557.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.101
+UUID: 8bca2e92-eaa2-45f0-8c17-3b2911b960de
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: MSci Financial Mathematics with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/195261.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.102
+UUID: 15865fe3-3cd7-4e2b-b555-3223bd537787
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80036.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.103
+UUID: 03381105-f917-4109-a1cf-602a65001cf0
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79952.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.104
+UUID: 05121fb9-53de-4fbd-8ceb-2f683613d0b7
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79970.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.105
+UUID: 9c9365e2-6668-486a-a867-06d4b9ae3e92
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and German
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80090.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.106
+UUID: e53993d5-5a0e-4eff-a783-610d5a9d9d32
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Hispanic Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80011.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.107
+UUID: 97b2e628-a8d0-4ff5-8d7b-8af6bc078d5d
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79917.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.108
+UUID: c955c087-ebe9-4896-890d-728dc0a67707
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80080.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.109
+UUID: 8062ec5b-6e57-4005-9a88-affd05bf0b27
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79897.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.110
+UUID: e4502689-b10a-4125-b3aa-1fc5c52e8231
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Portuguese
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179367.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.111
+UUID: bb5ffd2a-ed91-41fb-9f8a-af679b384b30
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French and Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179109.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.112
+UUID: b8c439e9-a009-40c6-b6a5-003a8e400735
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA French with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79957.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.113
+UUID: d6b4892b-29a7-4cc0-a0cb-be5eb88f2f87
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Genetics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79890.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.114
+UUID: c57d5b0a-35a2-44e8-90f4-bff022b1477c
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BA Geography
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80084.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.115
+UUID: e76025f1-529f-4e94-8606-4496c99a5345
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BSc Geography
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80005.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.116
+UUID: a51cd4c7-4fda-44cc-8315-5de1a6d2654f
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BSc Geography with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80091.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.117
+UUID: a369b2f8-2379-4329-9cbe-375f65b69e53
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80020.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.118
+UUID: da8aa367-ba6a-4147-a1c9-6d47ba47297b
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79871.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.119
+UUID: 22f3fe62-dad1-4cde-8478-09e05f4df8a5
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80034.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.120
+UUID: 3f3733bc-e842-4e21-b7da-b86aaa793032
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Hispanic Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80056.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.121
+UUID: 221a0bb4-a583-4645-a954-58375d3125e5
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80077.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.122
+UUID: a99fd758-cf82-4132-9ab9-9b701f595770
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80079.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.123
+UUID: c7479b23-ea27-4f5b-99b6-c5e3720bee62
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German and Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179110.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.124
+UUID: 82e6f48c-19f9-4ffe-9524-f313ed04180a
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA German with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80114.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.125
+UUID: ad124716-47b5-427b-b097-25aa85e8b01b
+Country: Britain
+University: Queen Mary University of London
+School: School of Medicine and Dentistry 
+ProgramName: BSc Global Health
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/114962.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.126
+UUID: 91952021-3765-4bec-b35d-a9f2ec25dd43
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Global Law
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198132.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.127
+UUID: e5640ad9-1e68-4cfd-b73c-04eee95f4e2a
+Country: Britain
+University: Queen Mary University of London
+School: Blizard Institute 
+ProgramName: BSC (Intercal) Global Public Health (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/141687.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.128
+UUID: ef7dd100-6b04-44d5-9fee-5b3768270bc6
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: PRE-MASTERS DIP Graduate Diploma Humanities and Social Sciences (January Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/200174.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.129
+UUID: 2948e1c0-91fb-4b9a-a983-bca8dda33731
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: PRE-MASTERS DIP Graduate Diploma in Finance and Economics (January Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/200173.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.130
+UUID: da4b9798-d0dc-419b-b3b7-ef65f1633a2b
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: PRE-MASTERS DIP Graduate Diploma in Finance and Economics (September Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/200172.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.131
+UUID: b78b878f-dc13-4193-8c98-ef9cc89ea708
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: PRE-MASTERS DIP Graduate Diploma in Humanities and Social Sciences (September Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199074.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.132
+UUID: a4b63b26-1968-490d-99cd-4c288654c21c
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79899.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.133
+UUID: c2294b2a-4cb2-4e7a-be2d-632c83f2fd9a
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Catalan
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/178709.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.134
+UUID: aeed720e-17ae-4aa9-89c2-4cb3a4ec70e5
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79902.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.135
+UUID: 309fecb6-2036-4800-9d70-039eb77eccae
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80009.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.136
+UUID: 7cc391ca-8699-4b27-ac20-8f2b6599904b
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79877.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.137
+UUID: 0893ff9f-4f9e-4008-aff2-26728e4228bf
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79969.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.138
+UUID: b2067eaa-4a30-4863-a195-e9f7c8c5c0b5
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Portuguese
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80081.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.139
+UUID: be4c9c44-f89f-4e9a-9f9c-d917be695f1f
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies and Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179254.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.140
+UUID: 73309989-c6a9-4856-a6ee-0ad936b4b032
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Hispanic Studies with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80010.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.141
+UUID: 9aa92eae-7450-4111-b433-6de8bb6e6c2b
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79886.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.142
+UUID: 51fc7a9b-a51c-483a-b56d-12df02136f09
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA History and Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79951.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.143
+UUID: 4174fa6c-85b6-47fa-b00c-ed6d49bb70d6
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA History and Film Studies
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79910.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.144
+UUID: e444f32d-23dd-49f9-bc25-caaa58bb408b
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA History and German
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79913.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.145
+UUID: 36e06c7f-019f-4551-ab44-9da3085b3c3b
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA History and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79954.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.146
+UUID: e44b7f0e-9cd6-4658-b5b1-4573f3ed9592
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA History and Politics with Year Abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198799.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.147
+UUID: 62768c77-626f-4d75-8d10-04e8596ebea7
+Country: Britain
+University: Queen Mary University of London
+School: School of Geography 
+ProgramName: BA Human Geography
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80112.html
+Email: geog-pgadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8165 
+=====================================
+No.148
+UUID: 7baeba28-ba92-43f9-911d-5917d459a247
+Country: Britain
+University: Queen Mary University of London
+School: Blizard Institute 
+ProgramName: BSC (Intercal) Infectious Disease and Epidemiology (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139910.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.149
+UUID: d1c0478c-2c3c-49d4-b6d5-72c71b970987
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: FDCERT International Foundation Programme In Humanities and Social Sciences (January Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/165071.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.150
+UUID: 38f2e337-8cfa-4392-bb35-dc7f799a31f0
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: FDCERT International Foundation Programme in Humanities and Social Sciences (September Start)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/165072.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.151
+UUID: d1b11087-8827-4522-ae23-242968284fd4
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Politics (Paris)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199265.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.152
+UUID: 840c5df1-22c8-4ddc-bc60-8578cd5b811f
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Politics with French (Paris)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199266.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.153
+UUID: 3a307c81-3304-4621-a539-853451042a03
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Politics with French with Year Abroad (Paris Plus)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199268.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.154
+UUID: 5ebe3040-18db-4f86-b67d-0ca32181a089
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Politics with Year Abroad (Paris Plus)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199267.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.155
+UUID: 8165d123-be5f-4219-a6a2-4f8278e61ecb
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Relations
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80031.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.156
+UUID: 53ef7c00-e98d-463e-8257-ddc22eae1832
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA International Relations with a Year Abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/178280.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.157
+UUID: ac445036-d90c-469e-87c4-4f9874af89e0
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: FDCERT International Science and Engineering Foundation Programme
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194531.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.158
+UUID: 14d38945-ab4a-4174-99b3-4360999164f1
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Law
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80122.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.159
+UUID: ac9732e0-acd8-4406-be28-552c9662ac8e
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Law - Senior Status
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79889.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.160
+UUID: 69485641-0e5e-4837-b431-49b9eda95971
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Law and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/173551.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.161
+UUID: 80518ed4-b616-4df7-a47a-34e447f1444b
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Law with Business
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199769.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.162
+UUID: f847a52e-7123-4a8e-b166-8e6682184000
+Country: Britain
+University: Queen Mary University of London
+School: School of Law 
+ProgramName: LLB Law with History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/161538.html
+Email: LLMadmin@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8093 
+=====================================
+No.163
+UUID: 0042a32e-6a5c-4fa9-8928-f0b33b5c9b02
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/199168.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.164
+UUID: b11b8cf8-0dc4-453f-a2fd-a404a1c75d73
+Country: Britain
+University: Queen Mary University of London
+School: School of Business and Management 
+ProgramName: BSc Marketing and Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/119122.html
+Email: j.boote@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8570 
+=====================================
+No.165
+UUID: e2eb90b4-96d6-4578-9ae6-752d88917baf
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials and Design
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79893.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.166
+UUID: 32043fa4-5836-4d0f-b96c-a3d36ba01799
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Materials and Design
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/168890.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.167
+UUID: 48a75f92-03ff-48ce-93c8-1d904506f87c
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials and Design with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79956.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.168
+UUID: 4b4a541e-5de5-4cf2-885c-4b3fae5f85de
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Materials and Design with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/168891.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.169
+UUID: 19f154de-38b6-456a-8b60-804d4484294e
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials Science and Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80125.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.170
+UUID: 0e5f1a3e-7ea6-4f9c-971d-d0008a2556d5
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Materials Science and Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/195220.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.171
+UUID: 48c52f73-5002-4da9-bcee-3f50af91cb3f
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Materials Science and Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80061.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.172
+UUID: aff9fd0c-00bd-4085-a6d5-60f2832909d5
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials Science and Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80062.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.173
+UUID: 8f31f064-1f8f-4c66-9e6b-7e96edf822d0
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials Science and Engineering with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198847.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.174
+UUID: bb35b684-bef5-4f6f-8120-f4fd039f2e63
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Materials Science and Engineering with Management with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198850.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.175
+UUID: b2f47214-281b-4a3e-94e2-3b4ef955a017
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80110.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.176
+UUID: 61bf191c-704c-43c9-a567-ed995a3900df
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: MSci Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80108.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.177
+UUID: 6cb0b253-541a-49c6-8694-793078a495bd
+Country: Britain
+University: Queen Mary University of London
+No.178
+UUID: 8e7f7276-5cc7-42df-81df-88aefb310985
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics and Statistics with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194384.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.179
+UUID: 2dc452fd-e43a-4b1a-be57-eea2f2c37985
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194383.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.180
+UUID: 8744d9ea-7263-4f28-a04a-62722c6769d1
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Actuarial Science
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/151011.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.181
+UUID: 3b0bcfdd-b383-4971-ae09-585eaa6c1e97
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Actuarial Science with Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/178281.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.182
+UUID: 137dc31e-9819-4f29-af5b-e37383dea145
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Finance and Accounting
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80085.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.183
+UUID: 4db93806-e668-43fb-a95e-027f89a38dbd
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Finance and Accounting with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194388.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.184
+UUID: d0606f9f-ad5f-41db-963d-5c456a8bdd18
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198779.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.185
+UUID: 4cfa0600-7d3d-4d9a-9ba9-fee928700dac
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics with Management with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198978.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.186
+UUID: adaac0fb-f92a-4fba-98ac-7593d08b8c37
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: MSci Mathematics with Statistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80065.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.187
+UUID: fbcc2190-4a8f-4f24-bbdf-9ea0cc8d3277
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics, Statistics and Financial Economics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80023.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.188
+UUID: 737fab47-4845-4bc2-a282-8a25750a0cd7
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Mathematics, Statistics and Financial Economics with a Professional Placement
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194385.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.189
+UUID: e140bd0a-8690-4814-8315-4a20cd8fb764
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Mechanical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80019.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.190
+UUID: 3825941c-f0ae-4192-b67d-c9a1b1d0efcb
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Mechanical Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80017.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.191
+UUID: 76b20324-c8a1-49b8-8f31-56ee966aef72
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Mechanical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79977.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.192
+UUID: ae5a358a-97ec-4611-8ad3-52e01afa8fe0
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Mechanical Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79978.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.193
+UUID: ba5cc571-1034-4a23-b08b-4d9fe53cf918
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Mechanical Engineering with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198848.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.194
+UUID: 998baac8-f963-4d2c-97c6-3f2bc9bcbd4c
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Mechanical Engineering with Management with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198844.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.195
+UUID: efccbbb7-a74f-4242-aa44-f1489dcea28a
+Country: Britain
+University: Queen Mary University of London
+School: Institute of Health Science Education 
+ProgramName: BSC (Intercal) Medical Education (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139906.html
+Email: c.penlington@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5803 
+=====================================
+No.196
+UUID: e7572b47-f76a-47fc-b46a-26382cbdb37f
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Medical Genetics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80007.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.197
+UUID: 6f972aae-282b-4616-b0e1-a68d042214f4
+Country: Britain
+University: Queen Mary University of London
+School: School of Medicine and Dentistry 
+ProgramName: MBBS Medicine (5 Year Programme)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80040.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.198
+UUID: e17b3a0f-a729-4491-b6fd-12ea43824b62
+Country: Britain
+University: Queen Mary University of London
+ProgramName: MBBS Medicine (Malta, 5 Year Programme)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/150767.html
+=====================================
+No.199
+UUID: def3ce3b-c2c2-4217-91f1-6d82d6cc8272
+Country: Britain
+University: Queen Mary University of London
+School: School of Medicine and Dentistry 
+ProgramName: MBBS Medicine - Graduate Entry Programme (4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79972.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.200
+UUID: 2213d771-a07f-47db-a54e-888c5765f876
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA Medieval History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79949.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.201
+UUID: de121f94-5763-4041-9a0a-6fbac8fd9915
+Country: Britain
+University: Queen Mary University of London
+School: School of History 
+ProgramName: BA Modern and Contemporary History
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80013.html
+Email: history-admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8352 
+=====================================
+No.202
+UUID: 60506545-5251-4056-862a-988b4a75ec16
+Country: Britain
+University: Queen Mary University of London
+School: William Harvey Research Institute 
+ProgramName: BMedSci Molecular Medicine (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139907.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.203
+UUID: 5dc0c8bf-ee6d-4707-8acd-163aa862a2a5
+Country: Britain
+University: Queen Mary University of London
+School: William Harvey Research Institute 
+ProgramName: BMedSci Molecular Therapeutics (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139908.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.204
+UUID: 98958a04-2839-4a03-a524-08a6ece91d63
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Neuroscience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/194803.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.205
+UUID: c1c17e95-7117-4506-82ae-5f9066875c24
+Country: Britain
+University: Queen Mary University of London
+School: Blizard Institute 
+ProgramName: BSC (Intercal) Neuroscience (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139911.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.206
+UUID: 85988fc1-64d1-4f29-81e3-47515ee75434
+Country: Britain
+University: Queen Mary University of London
+School: Institute of Dentistry 
+ProgramName: BSC (Intercal) Oral Biology (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139905.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.207
+UUID: 398c10db-2d1d-48b9-9261-de7b136a0eb0
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: MSci Pharmaceutical Chemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79958.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.208
+UUID: 1857c6f5-80be-4ad4-be75-579f0f5ad622
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Pharmaceutical Chemistry
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79959.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.209
+UUID: 77a0691c-4856-431d-83fa-160ff7e05099
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Pharmaceutical Chemistry with a Year in Industry/Research
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/115825.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.210
+UUID: 80334128-b7e7-48bc-a4ab-fec56e3ecbdf
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Pharmacology and Innovative Therapeutics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/195318.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.211
+UUID: db6524d1-dc09-498b-854e-5c9a0c6513ae
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79938.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.212
+UUID: 88a8347b-2d8d-4ade-9230-f0f559bd2124
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79936.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.213
+UUID: d7073179-2b8e-455a-aba0-7c720871ce66
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Physics with Astrophysics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198358.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.214
+UUID: 5fab025b-b530-4d06-9516-bbe57e292db5
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Physics with Astrophysics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198082.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.215
+UUID: 19ec35d0-82cf-4b5e-bc7c-c54ab1f92469
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Physics with Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198621.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.216
+UUID: d798d175-6366-4deb-aa13-0a59fbcbecca
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Physics with Particle Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79873.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.217
+UUID: 51915547-35d2-4e44-ade4-4ec483c3f359
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Physics with Particle Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79872.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.218
+UUID: 9adafada-4756-4150-a537-77eb01894547
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Physics with Year Abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198360.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.219
+UUID: dd209808-cb24-4a90-a9eb-b00d765da1e1
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Physics with Year Abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/198359.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.220
+UUID: bda35922-7b8a-4af7-bf28-08a0a551cac0
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80073.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.221
+UUID: 005e88ec-5770-4556-9b4c-d39efc584acf
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA Politics and International Relations
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/155141.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.222
+UUID: a9bb3799-dfb9-44f9-9210-5072311dc2c8
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA Politics and International Relations with a Year Abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/193705.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.223
+UUID: 8466c1dd-815a-4e4c-8b64-d44067067ad8
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA Politics with a Year abroad
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/178279.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.224
+UUID: 997db348-ac1a-4526-9ace-7c27eb662e15
+Country: Britain
+University: Queen Mary University of London
+School: School of Politics and International Relations 
+ProgramName: BA Politics with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80035.html
+Email: politics-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8587 
+=====================================
+No.225
+UUID: ee8efbbb-0de5-42f8-b502-cfdfd2c91b7a
+Country: Britain
+University: Queen Mary University of London
+School: Institute of Health Science Education 
+ProgramName: BSC (Intercal) Pre-Hospital Medicine (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/124036.html
+Email: c.penlington@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5803 
+=====================================
+No.226
+UUID: 93105e20-af06-4a4d-a93b-216c6dcdeb4c
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Psychology
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80066.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.227
+UUID: 82a3788d-ef12-4478-a37f-6671c410e491
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Pure Mathematics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79876.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.228
+UUID: 19525867-d24b-451a-a815-50e3d290d904
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Robotics Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/182122.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.229
+UUID: 0d89ddd5-39ae-4a7b-bea0-679034461724
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Robotics Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/166520.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.230
+UUID: 7a18403d-56f3-4519-8a0a-ad53b81df625
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Robotics Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/182121.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.231
+UUID: 507f3244-a4eb-4f08-a0ec-4d0c1fd82517
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Robotics Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/166521.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.232
+UUID: f0ee44a3-0b67-49cb-a35f-75d0f53b1813
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179111.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.233
+UUID: effff44f-c02b-4410-878c-9c653252eec1
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian and Comparative Literature
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179112.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.234
+UUID: 3cf5d605-a9d9-4dfb-b889-dd6f9333f3ff
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian and Drama
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179113.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.235
+UUID: 4ef4b970-5209-4823-8e59-84a5eb82fe39
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian and Linguistics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179114.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.236
+UUID: 7727f03c-2ced-476b-9108-304ec580cce6
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian and Politics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179255.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.237
+UUID: db0212aa-4a64-457b-b8bc-635544a7971f
+Country: Britain
+University: Queen Mary University of London
+School: School of Languages, Linguistics and Film 
+ProgramName: BA Russian with Business Management
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/179115.html
+Email: sllf-pg@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8332 
+=====================================
+No.238
+UUID: d779c53e-04ad-4baa-8005-b2916c5eebb2
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Science and Engineering Foundation Programme (Biological Sciences 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79996.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.239
+UUID: f907cea6-5da4-49d0-9972-46234338df72
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: MSci Science and Engineering Foundation Programme (Biology 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79985.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.240
+UUID: 5fb15aab-6630-42e9-b361-2a9ed06f8e44
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Science and Engineering Foundation Programme (Chemistry 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79927.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.241
+UUID: 9af10942-ead3-4c2a-97cf-27abb91b1cb6
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: MSci Science and Engineering Foundation Programme (Chemistry 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79925.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
+No.242
+UUID: 24a6e684-1e8e-4a03-a69f-8b72da5eb22c
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Science and Engineering Foundation Programme (Computer Science 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80044.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.243
+UUID: 7fe4defc-2b10-4b08-a12a-7fceb83293aa
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MSci Science and Engineering Foundation Programme (Computer Science 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80042.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.244
+UUID: 2ef0b452-db1f-43c9-b6c9-2032cb815290
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BEng Science and Engineering Foundation Programme (Electronic Engineering 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79907.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.245
+UUID: 706c6eb5-3c3b-4841-8f36-2e6f03802a3e
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: MEng Science and Engineering Foundation Programme (Electronic Engineering 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79905.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.246
+UUID: ba69fbb0-0f78-4d6b-bc0c-22021ffe17ec
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Science and Engineering Foundation Programme (Engineering 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79933.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.247
+UUID: 9ef79806-e1b0-45a0-b513-49af38d83283
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Science and Engineering Foundation Programme (Engineering 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80018.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.248
+UUID: 79b1001f-0b31-4629-8a98-10739d7b3767
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Science and Engineering Foundation Programme (Materials Science 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80126.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.249
+UUID: 75994dd7-622c-4254-b56f-b16daf3eed0f
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Science and Engineering Foundation Programme (Materials Science 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79983.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.250
+UUID: b7e04dc8-45f5-48e4-8d0e-6c012f3ae2a6
+Country: Britain
+University: Queen Mary University of London
+School: School of Mathematical Sciences 
+ProgramName: BSc Science and Engineering Foundation Programme (Mathematical Sciences 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80111.html
+Email: maths@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5468 
+=====================================
+No.251
+UUID: 85aa456e-bbed-43c9-b179-e4625aecc776
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Science and Engineering Foundation Programme (Physics 4 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79939.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.252
+UUID: 00b71555-149b-4d08-b2d2-fb306ecbc203
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Science and Engineering Foundation Programme (Physics 5 year)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79937.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.253
+UUID: 1fbed88e-9697-4df5-8532-3f79018c4bd6
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Software Engineering for Business
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/142367.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.254
+UUID: 6c6a8905-564a-4d84-8928-57ef6f0c5e3e
+Country: Britain
+University: Queen Mary University of London
+School: School of Electronic Engineering and Computer Science 
+ProgramName: BSc Software Engineering for Business with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/142368.html
+Email: eecs-msc-enquiries@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 7333 
+=====================================
+No.255
+UUID: 6db2d78e-b299-42ec-bf5f-5817e693a086
+Country: Britain
+University: Queen Mary University of London
+School: William Harvey Research Institute 
+ProgramName: BSC (Intercal) Sports and Exercise Medicine (Intercalated)
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/139904.html
+Email: pgsmd@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 5511 
+=====================================
+No.256
+UUID: cde9d258-2784-400f-89b2-9bc7faa5eef2
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Sustainable Energy Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80072.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.257
+UUID: 1a823f54-0613-426e-b9b1-ed5044bc97e4
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Sustainable Energy Engineering
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80071.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.258
+UUID: ea599b12-c288-4def-861a-01ad7a1e8760
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: MEng Sustainable Energy Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80032.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.259
+UUID: 8b52f593-8246-4dba-a29b-984a32eb76a5
+Country: Britain
+University: Queen Mary University of London
+School: School of Engineering and Materials Science 
+ProgramName: BEng Sustainable Energy Engineering with Industrial Experience
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80033.html
+Email: sems-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 8732 
+=====================================
+No.260
+UUID: 4fa79f46-d90f-4a0b-a29c-ed07f694a4f5
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: MSci Theoretical Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80038.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.261
+UUID: 4be145b2-efff-46b0-bad7-f9604e2451d1
+Country: Britain
+University: Queen Mary University of London
+School: School of Physics and Astronomy 
+ProgramName: BSc Theoretical Physics
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/80039.html
+Email: admissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 6958 
+=====================================
+No.262
+UUID: 1c63ae6e-9bc6-4bee-9ae0-c454809df33e
+Country: Britain
+University: Queen Mary University of London
+School: School of Biological and Chemical Sciences 
+ProgramName: BSc Zoology
+Homepage: http://www.qmul.ac.uk/undergraduate/coursefinder/courses/79929.html
+Email: sbcs-pgadmissions@qmul.ac.uk
+PhoneNumber: +44 (0)20 7882 3328/5889 
+=====================================
